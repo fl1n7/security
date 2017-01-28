@@ -1,20 +1,4 @@
 {
-<<<<<<< HEAD
-    "name": "flint/security",
-    "type": "library",
-    "description": ":package_description",
-    "keywords": [
-        "flint",
-        "security"
-    ],
-    "homepage": "https://github.com/flint/security",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": ":author_name",
-            "email": ":author_email",
-            "homepage": ":author_website",
-=======
     "name": "Flint/Security",
     "type": "library",
     "description": ":Security",
@@ -29,7 +13,6 @@
             "name": ":fl1n7",
             "email": ":fl1n7@mail2tor.com",
             "homepage": ":fl1n7",
->>>>>>> 6eaa0ff0bdfb6d47e869a1834a8cccaacbcc6e20
             "role": "Developer"
         }
     ],
